@@ -1,10 +1,13 @@
 import pandas as pd
 from write_data import connect_sql, write_sql, write_csv
 
-def get_cwhl_data(year_start, year_end):
+#http://www.eurohockey.com/stats/league/2019/488-cwhl.html?season=2019&type=2&position=0&nationality=0
+def get_cwhl_data(year_start, year_end, type):
     """
     Scrapes cwhl stats from eurohockey between year_start and year_end.
     Creates a dataframe that gets written to SQL and a csv.
+    Type 1 - regular season
+    Type 2 - playoffs
 
     Note: the website categorizes a season by the year of the second half.
         For example, 2015-2016 season is the year 2016
@@ -13,8 +16,8 @@ def get_cwhl_data(year_start, year_end):
     :return: dataframe of all stats between year_start and year_end
     """
     loop = 1
-    for year in range(2008, 2020):
-        url = 'http://www.eurohockey.com/stats/league/' + str(year) + '/488-cwhl.html'
+    for year in range(year_start, year_end):
+        url = 'http://www.eurohockey.com/stats/league/2019/488-cwhl.html?season=' + str(year) + '&type=' + str(type) + '&position=0&nationality=0'
         dataframes = pd.read_html(url, header=0)
         df = dataframes[0]
         df.drop(index=len(df) - 1, inplace=True)
@@ -31,10 +34,12 @@ def get_cwhl_data(year_start, year_end):
     return final
 
 
-def get_goalie_stats(year_start, year_end):
+def get_goalie_stats(year_start, year_end, type):
     """
     Scrapes cwhl goalie stats from eurohockey between year_start and year_end.
     Creates a dataframe that gets written to SQL and a csv.
+    Type 1 - regular season
+    Type 2 - playoffs
 
     Note: the website categorizes a season by the year of the second half.
         For example, 2015-2016 season is the year 2016
@@ -45,7 +50,7 @@ def get_goalie_stats(year_start, year_end):
     loop = 1
     for year in range(year_start, year_end):
         url = 'http://www.eurohockey.com/stats/league/2016/488-cwhl.html?season=' + str(
-            year) + '&type=1&position=1&nationality=0'
+            year) + '&type=' + str(type) + '&position=1&nationality=0'
         dataframes = pd.read_html(url, header=0)
         df = dataframes[0]
         df.drop(index=len(df) - 1, inplace=True)
@@ -63,9 +68,23 @@ def get_goalie_stats(year_start, year_end):
 
 if __name__ == "__main__":
     con = connect_sql()
-    stats = get_cwhl_data(2008, 2020)
+    #regular season skater stats
+    stats = get_cwhl_data(2008, 2020, 1)
     write_sql(stats, con, 'cwhl_stats')
-    write_csv(stats, 'cwhl')
+    write_csv(stats, 'csv/cwhl')
+    #goalie regular season stats
     goalie_stats = get_goalie_stats(2011, 2020)
     write_sql(goalie_stats, con, 'cwhl_goalies')
-    write_csv(goalie_stats, 'cwhl_goalies')
+    write_csv(goalie_stats, 'csv/cwhl_goalies')
+    #playoff skater stats
+    playoff_stats = get_cwhl_data(2016, 2017, 2)
+    playoff_stats2 = get_cwhl_data(2018, 2019, 2)
+    final_p_stats = pd.concat([playoff_stats, playoff_stats2], ignore_index=True)
+    write_sql(final_p_stats, con, 'cwhl_playoffs')
+    write_csv(final_p_stats, 'csv/cwhl_playoffs')
+    #playoff goalie stats
+    g_playoff_stats = get_goalie_stats(2016, 2017, 2)
+    g_playoff_stats2 = get_goalie_stats(2018, 2019, 2)
+    final_pg_stats = pd.concat([g_playoff_stats, g_playoff_stats2], ignore_index=True)
+    write_sql(final_pg_stats, con, 'cwhl_playoffs_g')
+    write_csv(final_pg_stats, 'csv/cwhl_playoffs_g')
