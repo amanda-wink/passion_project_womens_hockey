@@ -1,0 +1,754 @@
+Season,League,Player,Pos,Team,GP,G,A,P,PIM,+/-
+2007,CWHL,Lisa-Marie Breton-Lebreux,F,Montreal Stars,25,11,21,32,58,
+2008,CWHL,Caroline Ouellette,F,Montreal Stars,24,26,33,59,6,
+2008,CWHL,Lisa-Marie Breton-Lebreux,F,Montreal Stars,,,,,,
+2008,CWHL,Noémie Marin,F,Montreal Stars,,,,,,
+2008,CWHL,Annie Guay,D,Montreal Stars,,,,,,
+2008,CWHL,Sabrina Harbec,F,Montreal Stars,,,,,,
+2009,CWHL,Sabrina Harbec,F,Montreal Stars,29,15,40,55,34,
+2009,CWHL,Noémie Marin,F,Montreal Stars,28,24,20,44,6,
+2009,CWHL,Annie Guay,D,Montreal Stars,22,7,25,32,12,
+2009,CWHL,Lisa-Marie Breton-Lebreux,F,Montreal Stars,26,10,14,24,22,
+2009,CWHL,Caroline Ouellette,F,Montreal Stars,,,,,,
+2010,CWHL,Caroline Ouellette,F,Montreal Stars,29,24,47,71,16,
+2010,CWHL,Jayna Hefford,F,Brampton Thunder,27,25,23,48,32,31
+2010,CWHL,Jennifer Botterill,F,Toronto Furies,25,14,30,44,12,27
+2010,CWHL,Noémie Marin,F,Montreal Stars,19,22,15,37,10,27
+2010,CWHL,Julie Chu,F,Montreal Stars,19,5,30,35,4,24
+2010,CWHL,Annie Guay,D,Montreal Stars,29,13,19,32,16,16
+2010,CWHL,Emmanuelle Blais,F,Montreal Stars,29,11,21,32,30,25
+2010,CWHL,Sam Faber,F,Boston Blades,23,15,15,30,28,17
+2010,CWHL,Britni Smith,D,Toronto Furies,29,8,21,29,22,10
+2010,CWHL,Cherie Piper,F,Brampton Thunder,16,14,14,28,6,18
+2010,CWHL,Sarah Vaillancourt,F,Montreal Stars,15,11,17,28,10,20
+2010,CWHL,Vanessa Davidson,F,Montreal Stars,27,12,8,20,24,18
+2010,CWHL,Sabrina Harbec,F,Montreal Stars,15,8,9,17,8,8
+2010,CWHL,Danijela Rundqvist,F,Burlington Barracudas,22,11,4,15,36,11
+2010,CWHL,Dominique Thibault,F,Montreal Stars,20,7,8,15,12,14
+2010,CWHL,Lisa-Marie Breton-Lebreux,F,Montreal Stars,18,7,3,10,18,7
+2010,CWHL,Melodie Daoust,F,Montreal Stars,2,0,3,3,0,3
+2011,CWHL,Meghan Agosta-Marciano,F,Montreal Stars,27,41,39,80,16,59
+2011,CWHL,Caroline Ouellette,F,Montreal Stars,27,30,36,66,12,52
+2011,CWHL,Vanessa Davidson,F,Montreal Stars,27,24,25,49,26,41
+2011,CWHL,Kelli Stack,F,Boston Blades,27,25,17,42,30,35
+2011,CWHL,Gillian Apps,F,Brampton Thunder,27,19,20,39,70,30
+2011,CWHL,Jayna Hefford,F,Brampton Thunder,27,21,13,34,28,24
+2011,CWHL,Noémie Marin,F,Montreal Stars,24,12,22,34,16,25
+2011,CWHL,Cherie Piper,F,Brampton Thunder,25,12,21,33,10,28
+2011,CWHL,Erika Lawler,F,Boston Blades,26,11,22,33,10,25
+2011,CWHL,Gigi Marvin,F,Boston Blades,27,11,21,32,24,20
+2011,CWHL,Catherine Ward,D,Montreal Stars,27,2,29,31,28,28
+2011,CWHL,Sarah Vaillancourt,F,Montreal Stars,14,10,18,28,30,18
+2011,CWHL,Emmanuelle Blais,F,Montreal Stars,21,10,17,27,24,22
+2011,CWHL,Molly Engstrom,D,Brampton Thunder,27,4,23,27,22,23
+2011,CWHL,Sabrina Harbec,F,Montreal Stars,17,8,16,24,2,21
+2011,CWHL,Kori Cheverie,F,Toronto Furies,27,14,6,20,16,13
+2011,CWHL,Whitney Naslund,F,Boston Blades,26,9,8,17,8,14
+2011,CWHL,Kate Buesser,F,Boston Blades,25,6,10,16,8,13
+2011,CWHL,Alyssa Wohlfeiler,F,Boston Blades,26,5,11,16,24,13
+2011,CWHL,Tessa Bonhomme,D,Toronto Furies,24,4,12,16,16,9
+2011,CWHL,Courtney Birchard Kessel,D,Brampton Thunder,25,3,13,16,14,13
+2011,CWHL,Brooke Beazer,F,Toronto Furies,18,5,10,15,20,10
+2011,CWHL,Julie Chu,F,Montreal Stars,15,5,10,15,2,8
+2011,CWHL,Jennifer Brine,F,Toronto Furies,27,7,7,14,2,13
+2011,CWHL,Sam Hunt,F,Team Alberta CWHL,15,5,9,14,24,9
+2011,CWHL,Jenna Cunningham,F,Team Alberta CWHL,15,10,3,13,30,8
+2011,CWHL,Lori Dupuis,F,Brampton Thunder,26,7,6,13,36,7
+2011,CWHL,Meagan Aarts,F,Toronto Furies,26,3,10,13,8,12
+2011,CWHL,Martine Garland,D,Toronto Furies,26,2,11,13,8,12
+2011,CWHL,Jessica Koizumi,F,Boston Blades,18,7,5,12,10,9
+2011,CWHL,Kacey Bellamy,D,Boston Blades,22,5,7,12,24,9
+2011,CWHL,Britni Smith,D,Toronto Furies,27,5,6,11,18,9
+2011,CWHL,Jaclyn Hawkins,F,Boston Blades,18,5,6,11,4,8
+2011,CWHL,Caitlin Cahow,D,Boston Blades,20,4,7,11,22,7
+2011,CWHL,Meaghan Mikkelson-Reid,D,Team Alberta CWHL,15,2,9,11,20,7
+2011,CWHL,Britney Selina,F,Brampton Thunder,16,4,6,10,6,9
+2011,CWHL,Alyssa Cecere,D,Montreal Stars,25,2,8,10,12,10
+2011,CWHL,Lisa-Marie Breton-Lebreux,F,Montreal Stars,24,2,7,9,14,9
+2011,CWHL,Jill Kirchner,F,Boston Blades,20,2,7,9,8,7
+2011,CWHL,Kristy Zamora,F,Toronto Furies,25,1,8,9,22,6
+2011,CWHL,Chelsea Purcell,F,Team Alberta CWHL,15,6,2,8,16,7
+2011,CWHL,Kelly Zamora,F,Toronto Furies,26,2,6,8,30,6
+2011,CWHL,Taryn Peacock,F,Team Alberta CWHL,15,2,6,8,22,7
+2011,CWHL,Lexie Hoffmeyer,D,Toronto Furies,27,4,3,7,32,6
+2011,CWHL,Karlee Overguard,F,Team Alberta CWHL,8,4,3,7,26,6
+2011,CWHL,Bianca Zuber,F,Team Alberta CWHL,8,4,3,7,26,6
+2011,CWHL,Brittany Simpson,D,Boston Blades,24,3,4,7,18,5
+2011,CWHL,Micaela Long,F,Boston Blades,13,3,4,7,2,7
+2011,CWHL,Tara Gray,D,Brampton Thunder,27,1,6,7,20,4
+2011,CWHL,Carly Dupont-Hill,D,Montreal Stars,22,1,6,7,22,12
+2011,CWHL,Dominique Thibault,F,Montreal Stars,7,3,3,6,6,5
+2011,CWHL,Bray Ketchum,F,Boston Blades,20,0,6,6,2,6
+2011,CWHL,Lindsay Berman,D,Boston Blades,13,3,2,5,10,4
+2011,CWHL,Kerri Palmer,D,Brampton Thunder,27,2,3,5,24,4
+2011,CWHL,Holly Lorms,F,Boston Blades,24,2,3,5,14,5
+2011,CWHL,Shannon Sisk,F,Boston Blades,24,4,0,4,6,4
+2011,CWHL,Annina Rajahuhta,F,Burlington Barracudas,8,3,1,4,2,2
+2011,CWHL,Olivia Sutter,F,Team Alberta CWHL,13,2,2,4,2,3
+2011,CWHL,Katelyn Kurth,D,Boston Blades,26,1,3,4,22,3
+2011,CWHL,Lauren Chiswell,F,Team Alberta CWHL,12,3,0,3,2,3
+2011,CWHL,Laura Dostaler,F,Team Alberta CWHL,15,2,1,3,2,3
+2011,CWHL,Raylen Dziengelewski,D,Boston Blades,23,0,3,3,14,1
+2011,CWHL,Courtney Sawchuk,D,Team Alberta CWHL,15,1,1,2,14,2
+2011,CWHL,Colleen Olson,F,Team Alberta CWHL,15,0,2,2,8,1
+2011,CWHL,Ashley Cockell,D,Team Alberta CWHL,4,0,2,2,4,1
+2011,CWHL,Jennifer Kirk,F,Brampton Thunder,9,1,0,1,6,1
+2011,CWHL,Meghan Hunter,F,Team Alberta CWHL,4,1,0,1,2,1
+2011,CWHL,Karen Thatcher,F,Boston Blades,3,1,0,1,0,1
+2011,CWHL,Cherie Hendrickson,D,Boston Blades,21,0,1,1,8,1
+2011,CWHL,Jen Sadler,F,Brampton Thunder,19,0,1,1,8,2
+2011,CWHL,Kelsey Webster,D,Team Alberta CWHL,15,0,1,1,22,1
+2011,CWHL,Brittaney Maschmeyer,D,Team Alberta CWHL,15,0,1,1,6,0
+2011,CWHL,Lindsay Robinson,F,Team Alberta CWHL,11,0,1,1,2,1
+2011,CWHL,Bobbi Jo Slusar,D,Team Alberta CWHL,5,0,1,1,8,1
+2011,CWHL,Larissa Roche,F,Team Alberta CWHL,2,0,1,1,0,0
+2011,CWHL,Murphy Shannon,F,Team Alberta CWHL,2,0,1,1,0,0
+2011,CWHL,Gabrielle Davidson,F,Montreal Stars,1,0,1,1,0,1
+2011,CWHL,Tara Swanson,D,Team Alberta CWHL,15,0,0,0,6,0
+2011,CWHL,Jayme Clark,D,Team Alberta CWHL,7,0,0,0,2,0
+2011,CWHL,Meghan Duggan,F,Boston Blades,4,0,0,0,0,0
+2011,CWHL,Leanne Kisil,F,Team Alberta CWHL,2,0,0,0,2,0
+2012,CWHL,Meghan Agosta-Marciano,F,Montreal Stars,23,16,30,46,14,23
+2012,CWHL,Ann-Sophie Bettez,F,Montreal Stars,23,17,16,33,2,28
+2012,CWHL,Hilary Knight,F,Boston Blades,24,17,15,32,10,22
+2012,CWHL,Jayna Hefford,F,Brampton Thunder,21,15,12,27,18,13
+2012,CWHL,Caroline Ouellette,F,Montreal Stars,23,13,13,26,14,14
+2012,CWHL,Emmanuelle Blais,F,Montreal Stars,23,11,14,25,18,13
+2012,CWHL,Rebecca Johnston,F,Toronto Furies,24,8,17,25,4,8
+2012,CWHL,Gillian Apps,F,Brampton Thunder,23,14,10,24,52,12
+2012,CWHL,Laura McIntosh,F,Brampton Thunder,24,6,18,24,22,11
+2012,CWHL,Natalie Spooner,F,Toronto Furies,24,15,8,23,6,12
+2012,CWHL,Haley Irwin,F,Montreal Stars,20,10,11,21,36,13
+2012,CWHL,Mallory Deluce,F,Toronto Furies,23,6,14,20,10,15
+2012,CWHL,Cathy Chartrand,D,Montreal Stars,23,5,15,20,16,13
+2012,CWHL,Jennifer Wakefield,F,Toronto Furies,24,13,5,18,34,5
+2012,CWHL,Kate Buesser,F,Boston Blades,23,7,11,18,16,11
+2012,CWHL,Bailey Bram,F,Brampton Thunder,24,6,12,18,34,3
+2012,CWHL,Vicki Bendus,F,Brampton Thunder,20,10,6,16,30,0
+2012,CWHL,Carolyne Prevost,F,Toronto Furies,21,5,10,15,4,9
+2012,CWHL,Anne Schleper,D,Boston Blades,24,2,13,15,40,10
+2012,CWHL,Kelley Steadman,F,Boston Blades,24,8,6,14,32,9
+2012,CWHL,Noémie Marin,F,Montreal Stars,14,7,7,14,6,6
+2012,CWHL,Caitlin Cahow,D,Boston Blades,24,2,12,14,24,4
+2012,CWHL,Cherie Piper,F,Brampton Thunder,22,9,4,13,14,6
+2012,CWHL,Meghan Duggan,F,Boston Blades,14,5,8,13,24,9
+2012,CWHL,Catherine Ward,D,Montreal Stars,21,1,12,13,18,17
+2012,CWHL,Carly Dupont-Hill,D,Montreal Stars,23,0,12,12,18,13
+2012,CWHL,Vanessa Davidson,F,Montreal Stars,14,5,6,11,6,-1
+2012,CWHL,Lori Dupuis,F,Brampton Thunder,24,3,7,10,32,-2
+2012,CWHL,Karen Thatcher,F,Boston Blades,16,6,3,9,8,3
+2012,CWHL,Dominique Thibault,F,Montreal Stars,21,5,4,9,8,4
+2012,CWHL,Tessa Bonhomme,D,Toronto Furies,24,4,5,9,22,-3
+2012,CWHL,Julie Chu,F,Montreal Stars,14,2,7,9,2,1
+2012,CWHL,Kacey Bellamy,D,Boston Blades,24,1,8,9,22,7
+2012,CWHL,Courtney Birchard Kessel,D,Brampton Thunder,24,0,9,9,30,0
+2012,CWHL,Whitney Naslund,F,Boston Blades,24,5,3,8,12,3
+2012,CWHL,Jen Schoullis,F,Boston Blades,14,5,3,8,2,10
+2012,CWHL,Jenna Cunningham,F,Team Alberta CWHL,23,4,4,8,18,-3
+2012,CWHL,Mallory Johnston,D,Brampton Thunder,24,1,7,8,12,-1
+2012,CWHL,Kelli Stack,F,Boston Blades,8,4,3,7,12,6
+2012,CWHL,Meaghan Mikkelson-Reid,D,Team Alberta CWHL,23,3,4,7,40,-3
+2012,CWHL,Tara Watchorn,D,Team Alberta CWHL,22,3,4,7,24,1
+2012,CWHL,Cherie Hendrickson,D,Boston Blades,20,2,5,7,10,5
+2012,CWHL,Tara French,D,Brampton Thunder,23,1,6,7,18,2
+2012,CWHL,Sarah Moe,F,Brampton Thunder,23,4,2,6,18,0
+2012,CWHL,Erica Kromm,D/F,Team Alberta CWHL,23,3,2,5,8,0
+2012,CWHL,Britni Smith,D,Toronto Furies,23,2,3,5,12,-5
+2012,CWHL,Jennifer Brine,F,Toronto Furies,23,2,3,5,6,3
+2012,CWHL,Jessica Koizumi,F,Boston Blades,15,2,3,5,4,3
+2012,CWHL,Gigi Marvin,F,Boston Blades,15,2,3,5,6,2
+2012,CWHL,Tara Gray,D,Brampton Thunder,21,1,4,5,10,0
+2012,CWHL,Sara Dagenais,F,Montreal Stars,21,1,4,5,10,4
+2012,CWHL,Chelsea Purcell,F,Team Alberta CWHL,23,0,5,5,22,3
+2012,CWHL,Charissa Stadnyk,D,Brampton Thunder,8,0,5,5,6,1
+2012,CWHL,Marie-Ève Provost,F,Montreal Stars,20,4,0,4,4,1
+2012,CWHL,Olivia Sutter,F,Team Alberta CWHL,23,3,1,4,20,-4
+2012,CWHL,Meagan Aarts,F,Toronto Furies,24,2,2,4,12,-5
+2012,CWHL,Kristy Zamora,F,Toronto Furies,24,1,3,4,8,-3
+2012,CWHL,Karolina Urban,F,Toronto Furies,24,2,1,3,8,1
+2012,CWHL,Lauren Chiswell,F,Team Alberta CWHL,23,2,1,3,8,-4
+2012,CWHL,Kerri Sanders,F,Team Alberta CWHL,10,2,1,3,6,0
+2012,CWHL,Sarah Vaillancourt,F,Montreal Stars,5,2,1,3,6,2
+2012,CWHL,Brooke Beazer,F,Toronto Furies,23,1,2,3,4,1
+2012,CWHL,Jocelyne Larocque,D,Team Alberta CWHL,23,1,2,3,44,-1
+2012,CWHL,Lexie Hoffmeyer,D,Toronto Furies,22,1,2,3,38,-1
+2012,CWHL,Erin Duggan,D/F,Team Alberta CWHL,22,1,2,3,2,0
+2012,CWHL,Tia Hanson,F,Team Alberta CWHL,14,1,2,3,4,0
+2012,CWHL,Stephanie Roy,F,Team Alberta CWHL,12,1,2,3,4,1
+2012,CWHL,Kristin Labrie,F,Team Alberta CWHL,11,1,2,3,4,0
+2012,CWHL,Lindsey Vine,F,Brampton Thunder,9,1,2,3,8,2
+2012,CWHL,Molly Engstrom,D,Boston Blades,8,1,2,3,6,2
+2012,CWHL,Laura Dostaler,F,Team Alberta CWHL,23,2,0,2,6,-3
+2012,CWHL,Shannon Moulson,D,Toronto Furies,24,1,1,2,24,0
+2012,CWHL,Kelsey Webster,D,Team Alberta CWHL,23,1,1,2,38,0
+2012,CWHL,Kelly Zamora,F,Toronto Furies,22,1,1,2,6,-1
+2012,CWHL,Katerina Mrazova,F,Boston Blades,21,1,1,2,4,2
+2012,CWHL,Kori Cheverie,F,Toronto Furies,24,0,2,2,22,-7
+2012,CWHL,Dania Simmonds,D,Brampton Thunder,24,0,2,2,20,1
+2012,CWHL,Martine Garland,D,Toronto Furies,19,0,2,2,10,-2
+2012,CWHL,Virginie Bouetz Andrieu,D,Montreal Stars,17,0,2,2,2,2
+2012,CWHL,Emily Berzins,F,Team Alberta CWHL,17,1,0,1,12,-1
+2012,CWHL,Amber Bowman,D,Toronto Furies,13,1,0,1,6,-2
+2012,CWHL,Lindsay Berman,D,Boston Blades,11,1,0,1,2,0
+2012,CWHL,Kasey Boucher,D,Boston Blades,11,1,0,1,4,1
+2012,CWHL,Bianca Zuber,F,Team Alberta CWHL,6,1,0,1,0,0
+2012,CWHL,Alyssa Cecere,D,Montreal Stars,21,0,1,1,6,9
+2012,CWHL,Lisa-Marie Breton-Lebreux,F,Montreal Stars,19,0,1,1,20,4
+2012,CWHL,Amanda Shaw,D,Toronto Furies,16,0,1,1,16,-3
+2012,CWHL,Jennifer Kirk,F,Brampton Thunder,12,0,1,1,16,-4
+2012,CWHL,Catherine White,F,Toronto Furies,9,0,1,1,2,1
+2012,CWHL,Ingrid Renli,F,Team Alberta CWHL,6,0,1,1,0,0
+2012,CWHL,Jordanna Peroff,F,Toronto Furies,20,0,0,0,2,0
+2012,CWHL,Murphy Shannon,F,Team Alberta CWHL,12,0,0,0,4,-4
+2012,CWHL,Sarah Dagg,F,Brampton Thunder,12,0,0,0,6,-6
+2012,CWHL,Bobbi Jo Slusar,D,Team Alberta CWHL,12,0,0,0,16,0
+2012,CWHL,Madison Haller,???,Team Alberta CWHL,11,0,0,0,2,-2
+2012,CWHL,Holly Lorms,F,Boston Blades,8,0,0,0,0,-1
+2012,CWHL,Anya Battaglino,D,Boston Blades,8,0,0,0,4,0
+2012,CWHL,Kristen Marson,D,Toronto Furies,7,0,0,0,0,0
+2012,CWHL,Gillian Ferrari,D,Montreal Stars,3,0,0,0,2,-3
+2012,CWHL,Alyssa Wohlfeiler,F,Boston Blades,2,0,0,0,0,0
+2013,CWHL,Ann-Sophie Bettez,F,Montreal Stars,23,16,24,40,12,23
+2013,CWHL,Sarah Vaillancourt,F,Montreal Stars,17,12,23,35,12,16
+2013,CWHL,Vanessa Davidson,F,Montreal Stars,23,11,20,31,20,14
+2013,CWHL,Cathy Chartrand,D,Montreal Stars,23,9,21,30,32,18
+2013,CWHL,Jillian Dempsey,F,Boston Blades,24,14,14,28,8,10
+2013,CWHL,Danielle Stone,F,Calgary Inferno,24,15,10,25,14,17
+2013,CWHL,Carolyne Prevost,F,Toronto Furies,23,11,12,23,6,4
+2013,CWHL,Alyssa Baldin,F,Toronto Furies,23,8,15,23,14,6
+2013,CWHL,Julie Paetsch,F,Calgary Inferno,24,13,9,22,10,4
+2013,CWHL,Marie-Ève Provost,F,Montreal Stars,22,8,11,19,12,1
+2013,CWHL,Blake Bolden,D,Boston Blades,23,5,14,19,44,-1
+2013,CWHL,Jenna Cunningham,F,Calgary Inferno,18,11,7,18,10,2
+2013,CWHL,Emmanuelle Blais,F,Montreal Stars,23,7,10,17,12,6
+2013,CWHL,Dominique Thibault,F,Montreal Stars,17,10,6,16,2,8
+2013,CWHL,Kori Cheverie,F,Toronto Furies,23,5,11,16,12,9
+2013,CWHL,Casey Pickett,F,Boston Blades,22,9,6,15,10,-2
+2013,CWHL,Jessica Koizumi,F,Boston Blades,11,7,8,15,10,12
+2013,CWHL,Danielle Skirrow,F,Brampton Thunder,24,5,10,15,22,-8
+2013,CWHL,Casandra Dupuis,F,Montreal Stars,23,5,10,15,8,3
+2013,CWHL,Jill Cardella,F,Boston Blades,24,4,11,15,8,4
+2013,CWHL,Kelly Cooke,F,Boston Blades,23,6,8,14,8,-2
+2013,CWHL,Katie Wilson,F,Toronto Furies,23,5,9,14,12,2
+2013,CWHL,Kate Buesser,F,Boston Blades,15,3,11,14,22,5
+2013,CWHL,Rachel Llanes,F,Boston Blades,23,6,6,12,10,-2
+2013,CWHL,Taryn Peacock,F,Calgary Inferno,23,3,9,12,16,4
+2013,CWHL,Michelle Bonello,D,Toronto Furies,22,2,10,12,39,3
+2013,CWHL,Jenelle Kohanchuk,F,Toronto Furies,14,7,3,10,10,2
+2013,CWHL,Meagan Aarts,F,Toronto Furies,21,6,4,10,10,0
+2013,CWHL,Chelsea Purcell,F,Calgary Inferno,24,4,6,10,12,8
+2013,CWHL,Dru Burns,D,Boston Blades,22,4,6,10,22,1
+2013,CWHL,Tegan Schroeder,D,Calgary Inferno,24,1,9,10,8,6
+2013,CWHL,Ashley Pendleton,D,Brampton Thunder,22,1,9,10,32,-9
+2013,CWHL,Jess Jones,F,Brampton Thunder,23,5,4,9,26,-9
+2013,CWHL,Holly Carrie-Mattimoe,F,Toronto Furies,22,2,7,9,2,5
+2013,CWHL,Jessica Wong,F,Calgary Inferno,12,2,7,9,14,7
+2013,CWHL,Carly Dupont-Hill,D,Montreal Stars,20,1,8,9,6,14
+2013,CWHL,Jessica Vella,F,Toronto Furies,20,7,1,8,6,2
+2013,CWHL,Danielle Boudreau,D,Brampton Thunder,24,6,2,8,20,-3
+2013,CWHL,Sasha Nanji,D,Brampton Thunder,14,4,4,8,8,-1
+2013,CWHL,Hilary Knight,F,Boston Blades,4,4,4,8,0,4
+2013,CWHL,Jennifer Kirk,F,Brampton Thunder,20,2,6,8,32,-3
+2013,CWHL,Britni Smith,D,Toronto Furies,14,1,7,8,8,6
+2013,CWHL,Fannie Desforges,F,Montreal Stars,19,6,1,7,12,7
+2013,CWHL,Ashley Cottrell,F,Boston Blades,24,5,2,7,6,1
+2013,CWHL,Alyssa Wohlfeiler,F,Boston Blades,24,4,3,7,22,-1
+2013,CWHL,Kristy Zamora,F,Toronto Furies,23,4,3,7,36,4
+2013,CWHL,Natasha Fryer,F,Brampton Thunder,21,4,3,7,2,-10
+2013,CWHL,Alyssa Cecere,D,Montreal Stars,23,3,4,7,34,13
+2013,CWHL,Shannon Moulson,D,Toronto Furies,23,2,5,7,22,4
+2013,CWHL,Christie Jensen,D,Boston Blades,23,0,7,7,6,5
+2013,CWHL,Abygail Laking,F,Calgary Inferno,22,4,2,6,6,-4
+2013,CWHL,Rhianna Kurio,F,Calgary Inferno,24,3,3,6,8,0
+2013,CWHL,Jana Head,F,Brampton Thunder,17,2,4,6,10,-12
+2013,CWHL,Whitney Naslund,F,Boston Blades,23,1,5,6,6,0
+2013,CWHL,Madison Haller,???,Calgary Inferno,24,0,6,6,10,7
+2013,CWHL,Laura McIntosh,F,Brampton Thunder,9,4,1,5,16,-4
+2013,CWHL,Lindsey Vine,F,Brampton Thunder,24,3,2,5,18,-15
+2013,CWHL,Erin Duggan,D/F,Calgary Inferno,23,1,4,5,12,-14
+2013,CWHL,Sarah Moe,F,Brampton Thunder,19,3,1,4,2,-10
+2013,CWHL,Julie Allen,F,Toronto Furies,21,2,2,4,6,4
+2013,CWHL,Kelly Zamora,F,Toronto Furies,18,2,2,4,8,5
+2013,CWHL,Kelsey Webster,D,Calgary Inferno,24,1,3,4,48,-12
+2013,CWHL,Emily Berzins,F,Calgary Inferno,24,1,3,4,36,-6
+2013,CWHL,Laura Dostaler,F,Calgary Inferno,24,1,3,4,14,-15
+2013,CWHL,Lexie Hoffmeyer,D,Toronto Furies,23,1,3,4,33,1
+2013,CWHL,Tessa Bonhomme,D,Toronto Furies,11,1,3,4,10,3
+2013,CWHL,Noémie Marin,F,Montreal Stars,7,1,3,4,2,-2
+2013,CWHL,Sara Dagenais,F,Montreal Stars,23,0,4,4,12,5
+2013,CWHL,Becky Conroy,F,Brampton Thunder,22,0,4,4,12,-7
+2013,CWHL,Mallory Johnston,D,Brampton Thunder,22,0,4,4,16,-18
+2013,CWHL,Martine Garland,D,Toronto Furies,12,0,4,4,2,0
+2013,CWHL,Emma Rambo,D,Boston Blades,22,2,1,3,8,-4
+2013,CWHL,Stacie Tardif,D,Montreal Stars,17,2,1,3,10,8
+2013,CWHL,Natalie Spooner,F,Toronto Furies,3,2,1,3,2,0
+2013,CWHL,Erica Kromm,D/F,Calgary Inferno,24,1,2,3,16,-7
+2013,CWHL,Jordanna Peroff,F,Toronto Furies,22,1,2,3,4,-2
+2013,CWHL,Virginie Bouetz Andrieu,D,Montreal Stars,18,1,2,3,2,2
+2013,CWHL,Kelly Hart,F,Brampton Thunder,8,1,2,3,2,-1
+2013,CWHL,Kristen Marson,D,Toronto Furies,15,0,3,3,4,1
+2013,CWHL,Caroline Ouellette,F,Montreal Stars,2,2,0,2,4,1
+2013,CWHL,Emilie Bocchia,F,Montreal Stars,23,1,1,2,0,0
+2013,CWHL,Andie LeDonne,D,Brampton Thunder,22,1,1,2,46,-11
+2013,CWHL,Lisa-Marie Breton-Lebreux,F,Montreal Stars,10,1,1,2,2,0
+2013,CWHL,Kelli Stack,F,Boston Blades,2,1,1,2,4,0
+2013,CWHL,Jacquie Pierri,D,Calgary Inferno,24,0,2,2,44,-3
+2013,CWHL,Tara French,D,Brampton Thunder,22,1,0,1,34,-6
+2013,CWHL,Shannon Mahoney,F,Boston Blades,18,1,0,1,6,-4
+2013,CWHL,Lisa Mullan,F,Toronto Furies,13,1,0,1,6,-2
+2013,CWHL,Karolina Urban,F,Calgary Inferno,24,0,1,1,24,-16
+2013,CWHL,Dania Simmonds,D,Brampton Thunder,24,0,1,1,28,-13
+2013,CWHL,Laurie Proulx-Duperré,D,Montreal Stars,23,0,1,1,0,0
+2013,CWHL,Camille Dumais,F,Montreal Stars,20,0,1,1,10,-4
+2013,CWHL,Bianca Zuber,F,Calgary Inferno,17,0,1,1,4,-2
+2013,CWHL,Jessica O’Grady,F,Calgary Inferno,16,0,1,1,2,-4
+2013,CWHL,Brooke Beazer,F,Toronto Furies,9,0,1,1,0,2
+2013,CWHL,Lindsay Berman,D,Boston Blades,6,0,1,1,2,-2
+2013,CWHL,Tara Gray,D,Brampton Thunder,18,0,0,0,30,-13
+2013,CWHL,Anya Battaglino,D,Boston Blades,13,0,0,0,0,-2
+2013,CWHL,Jennifer Laloi,???,Montreal Stars,13,0,0,0,0,-1
+2013,CWHL,Kiira Dosdall,D,Boston Blades,11,0,0,0,8,9
+2014,CWHL,Rebecca Johnston,F,Calgary Inferno,24,17,20,37,10,21
+2014,CWHL,Brianna Decker,F,Boston Blades,12,16,16,32,10,25
+2014,CWHL,Caroline Ouellette,F,Montreal Stars,22,8,18,26,18,4
+2014,CWHL,Brittany Esposito,F,Calgary Inferno,24,10,15,25,8,10
+2014,CWHL,Ann-Sophie Bettez,F,Montreal Stars,22,11,12,23,4,6
+2014,CWHL,Hilary Knight,F,Boston Blades,13,8,14,22,4,23
+2014,CWHL,Haley Irwin,F,Calgary Inferno,13,8,12,20,2,15
+2014,CWHL,Tara Watchorn,D,Boston Blades,21,6,14,20,26,25
+2014,CWHL,Jillian Dempsey,F,Boston Blades,22,9,10,19,2,17
+2014,CWHL,Noémie Marin,F,Montreal Stars,18,13,5,18,2,-1
+2014,CWHL,Monique Lamoureux-Morando,F,Boston Blades,17,6,12,18,23,20
+2014,CWHL,Jessica Campbell,F,Calgary Inferno,21,12,5,17,4,8
+2014,CWHL,Jenelle Kohanchuk,F,Toronto Furies,21,7,10,17,8,1
+2014,CWHL,Cathy Chartrand,D,Montreal Stars,22,5,12,17,26,2
+2014,CWHL,Julie Chu,F,Montreal Stars,20,2,15,17,12,2
+2014,CWHL,Carolyne Prevost,F,Toronto Furies,24,9,7,16,0,-11
+2014,CWHL,Jess Jones,F,Brampton Thunder,24,7,9,16,12,-13
+2014,CWHL,Jordan Smelker,F,Boston Blades,22,8,7,15,6,17
+2014,CWHL,Natalie Spooner,F,Toronto Furies,20,7,8,15,8,-3
+2014,CWHL,Laura Fortino,D,Brampton Thunder,24,5,10,15,8,-19
+2014,CWHL,Kim Deschenes,F,Montreal Stars,22,8,6,14,12,5
+2014,CWHL,Jenna Cunningham,F,Calgary Inferno,24,6,8,14,8,4
+2014,CWHL,Emmanuelle Blais,F,Montreal Stars,18,5,9,14,12,4
+2014,CWHL,Bailey Bram,F,Calgary Inferno,24,4,10,14,16,-2
+2014,CWHL,Sarah Davis,F,Calgary Inferno,24,7,6,13,16,6
+2014,CWHL,Rhianna Kurio,F,Calgary Inferno,20,5,8,13,2,10
+2014,CWHL,Jamie Lee Rattray,F,Brampton Thunder,22,4,9,13,37,-14
+2014,CWHL,Blake Bolden,D,Boston Blades,22,3,10,13,22,8
+2014,CWHL,Kelly Terry,F,Toronto Furies,16,3,10,13,6,-4
+2014,CWHL,Jessica Wong,F,Calgary Inferno,24,2,11,13,14,7
+2014,CWHL,Rachel Llanes,F,Boston Blades,22,6,5,11,6,4
+2014,CWHL,Kacey Bellamy,D,Boston Blades,18,2,9,11,16,10
+2014,CWHL,Megan Bozek,D,Toronto Furies,22,3,7,10,10,-11
+2014,CWHL,Corinne Buie,F,Boston Blades,20,5,4,9,6,8
+2014,CWHL,Jesse Scanzano,F,Brampton Thunder,20,4,5,9,40,-16
+2014,CWHL,Danielle Stone,F,Calgary Inferno,22,3,6,9,2,4
+2014,CWHL,Lauriane Rougeau,D,Montreal Stars,20,2,7,9,14,11
+2014,CWHL,Carly Mercer,F,Brampton Thunder,24,6,2,8,4,-20
+2014,CWHL,Casey Pickett,F,Boston Blades,21,6,2,8,6,5
+2014,CWHL,Kaleigh Fratkin,D,Boston Blades,22,1,7,8,10,19
+2014,CWHL,Meagan Aarts,F,Toronto Furies,24,3,4,7,35,-10
+2014,CWHL,Janine Weber,F,Boston Blades,17,3,4,7,4,11
+2014,CWHL,Hayleigh Cudmore,D,Calgary Inferno,24,2,5,7,20,5
+2014,CWHL,Louise Warren,F,Calgary Inferno,24,2,5,7,8,-3
+2014,CWHL,Kelsey Webster,D,Calgary Inferno,24,0,7,7,18,8
+2014,CWHL,Lindsey Vine,F,Brampton Thunder,22,4,2,6,6,-13
+2014,CWHL,Ellie Seedhouse,F,Brampton Thunder,24,3,3,6,12,-16
+2014,CWHL,Meghan Duggan,F,Boston Blades,7,1,5,6,12,8
+2014,CWHL,Jocelyne Larocque,D,Brampton Thunder,24,3,2,5,38,-18
+2014,CWHL,Erica Kromm,D/F,Calgary Inferno,23,3,2,5,6,4
+2014,CWHL,Alyssa Baldin,F,Toronto Furies,23,3,2,5,24,-10
+2014,CWHL,Marie-Ève Provost,F,Montreal Stars,17,2,3,5,12,5
+2014,CWHL,Casandra Dupuis,F,Montreal Stars,22,1,4,5,16,-1
+2014,CWHL,Madison Haller,???,Calgary Inferno,17,1,4,5,4,7
+2014,CWHL,Stacie Tardif,D,Montreal Stars,15,1,4,5,8,4
+2014,CWHL,Jacquie Pierri,D,Calgary Inferno,24,0,5,5,22,10
+2014,CWHL,Courtney Birchard Kessel,D,Brampton Thunder,13,0,5,5,22,-10
+2014,CWHL,Lisa-Marie Breton-Lebreux,F,Montreal Stars,20,3,1,4,4,3
+2014,CWHL,Bray Ketchum,F,Boston Blades,20,3,1,4,0,3
+2014,CWHL,Kelly Cooke,F,Boston Blades,22,2,2,4,4,2
+2014,CWHL,Tegan Schroeder,D,Calgary Inferno,21,2,2,4,10,4
+2014,CWHL,Alyssa Gagliardi,D,Boston Blades,21,2,2,4,14,11
+2014,CWHL,Tessa Bonhomme,D,Toronto Furies,12,2,2,4,12,-5
+2014,CWHL,Shannon Moulson,D,Toronto Furies,24,1,3,4,24,-12
+2014,CWHL,Emilie Bocchia,F,Montreal Stars,22,1,3,4,4,-4
+2014,CWHL,Danielle Skirrow,F,Brampton Thunder,22,1,3,4,12,-16
+2014,CWHL,Jennifer Kirk,F,Brampton Thunder,20,1,3,4,18,-8
+2014,CWHL,Natasha Fryer,F,Brampton Thunder,19,1,3,4,12,-9
+2014,CWHL,Jenny Potter,F,Boston Blades,6,1,3,4,4,4
+2014,CWHL,Dania Simmonds,D,Brampton Thunder,24,0,4,4,20,-10
+2014,CWHL,Michelle Bonello,D,Toronto Furies,24,0,4,4,38,-13
+2014,CWHL,Taryn Peacock,F,Calgary Inferno,21,0,4,4,12,1
+2014,CWHL,Aina Mizukami,D,Calgary Inferno,8,0,4,4,8,8
+2014,CWHL,Jessica Vella,F,Toronto Furies,19,3,0,3,2,-3
+2014,CWHL,Fielding Montgomery,F,Brampton Thunder,17,3,0,3,4,-8
+2014,CWHL,Julie Allen,F,Toronto Furies,24,2,1,3,18,-15
+2014,CWHL,Jessica Koizumi,F,Boston Blades,9,2,1,3,2,0
+2014,CWHL,Kristy Zamora,F,Toronto Furies,22,1,2,3,14,-7
+2014,CWHL,Sara Dagenais,F,Montreal Stars,22,1,2,3,10,-7
+2014,CWHL,Chelsey Saunders,F,Montreal Stars,19,1,2,3,0,4
+2014,CWHL,Ashley Cottrell,F,Boston Blades,12,1,2,3,0,3
+2014,CWHL,Tanis Lamoureux,F,Toronto Furies,7,1,2,3,2,0
+2014,CWHL,Sophie Brault,D,Montreal Stars,21,0,3,3,6,2
+2014,CWHL,Tara French,D,Toronto Furies,20,0,3,3,16,-1
+2014,CWHL,Leah Whittaker,D,Brampton Thunder,14,0,3,3,10,-1
+2014,CWHL,Mallory Deluce,F,Toronto Furies,6,2,0,2,0,-2
+2014,CWHL,Candice Styles,D/F,Toronto Furies,21,1,1,2,20,-17
+2014,CWHL,Denna Laing,F,Boston Blades,18,1,1,2,0,-1
+2014,CWHL,Brooke Beazer,F,Toronto Furies,12,1,1,2,2,-5
+2014,CWHL,Kelli Stack,F,Boston Blades,2,1,1,2,0,0
+2014,CWHL,Kori Cheverie,F,Toronto Furies,24,0,2,2,6,-10
+2014,CWHL,Kristen Hagg,F,Calgary Inferno,18,0,2,2,4,-2
+2014,CWHL,Katie Wilson,F,Toronto Furies,17,0,2,2,4,-6
+2014,CWHL,Megan Myers,F,Boston Blades,12,0,2,2,0,5
+2014,CWHL,Lexie Hoffmeyer,D,Toronto Furies,23,0,1,1,16,-15
+2014,CWHL,Fannie Desforges,F,Montreal Stars,20,0,1,1,12,-8
+2014,CWHL,Virginie Bouetz Andrieu,D,Montreal Stars,20,0,1,1,4,2
+2014,CWHL,Kelly O’Hanlon,F,Brampton Thunder,20,0,1,1,0,0
+2014,CWHL,Holly Carrie-Mattimoe,F,Toronto Furies,15,0,1,1,4,-6
+2014,CWHL,Carly Dupont-Hill,D,Montreal Stars,14,0,1,1,2,-1
+2015,CWHL,Marie-Philip Poulin-Nadeau,F,Les Canadiennes,22,23,23,46,10,29
+2015,CWHL,Ann-Sophie Bettez,F,Les Canadiennes,24,19,25,44,12,34
+2015,CWHL,Kim Deschenes,F,Les Canadiennes,24,13,20,33,6,33
+2015,CWHL,Caroline Ouellette,F,Les Canadiennes,24,15,17,32,18,26
+2015,CWHL,Natalie Spooner,F,Toronto Furies,22,17,13,30,20,0
+2015,CWHL,Jamie Lee Rattray,F,Brampton Thunder,22,13,16,29,18,10
+2015,CWHL,Brianne Jenner,F,Calgary Inferno,24,10,18,28,6,20
+2015,CWHL,Laura Fortino,D,Brampton Thunder,24,8,20,28,10,13
+2015,CWHL,Rebecca Vint,F,Brampton Thunder,24,19,7,26,42,14
+2015,CWHL,Elana Lovell,F,Calgary Inferno,24,14,12,26,8,16
+2015,CWHL,Jess Jones,F,Brampton Thunder,24,14,10,24,36,15
+2015,CWHL,Jillian Saulnier,F,Calgary Inferno,22,12,10,22,16,8
+2015,CWHL,Jessica Campbell,F,Calgary Inferno,22,10,10,20,6,6
+2015,CWHL,Katia Clement-Heydra,F,Les Canadiennes,24,7,13,20,2,24
+2015,CWHL,Brittany Esposito,F,Calgary Inferno,24,6,14,20,4,10
+2015,CWHL,Courtney Birchard Kessel,D,Brampton Thunder,24,3,17,20,10,10
+2015,CWHL,Jenna McParland,F,Brampton Thunder,24,8,11,19,8,3
+2015,CWHL,Lauriane Rougeau,D,Les Canadiennes,22,2,17,19,10,24
+2015,CWHL,Kori Cheverie,F,Toronto Furies,24,8,10,18,20,-5
+2015,CWHL,Alyssa Baldin,F,Toronto Furies,22,7,11,18,26,-4
+2015,CWHL,Blayre Turnbull,F,Calgary Inferno,22,7,9,16,16,7
+2015,CWHL,Hayley Wickenheiser,F,Calgary Inferno,23,3,13,16,10,9
+2015,CWHL,Noémie Marin,F,Les Canadiennes,22,7,8,15,6,13
+2015,CWHL,Candice Styles,D/F,Brampton Thunder,22,7,8,15,28,10
+2015,CWHL,Emily Fulton,F,Toronto Furies,22,5,10,15,10,-4
+2015,CWHL,Cathy Chartrand,D,Les Canadiennes,24,3,12,15,14,23
+2015,CWHL,Hayleigh Cudmore,D,Calgary Inferno,24,2,13,15,8,17
+2015,CWHL,Carolyne Prevost,F,Toronto Furies,24,7,7,14,4,-9
+2015,CWHL,Bailey Bram,F,Calgary Inferno,16,3,11,14,18,2
+2015,CWHL,Karell Emard,D/F,Les Canadiennes,24,7,6,13,42,11
+2015,CWHL,Sarah Davis,F,Calgary Inferno,21,4,9,13,8,5
+2015,CWHL,Kristen Richards,F,Brampton Thunder,24,2,11,13,18,5
+2015,CWHL,Julie Chu,F,Les Canadiennes,15,3,9,12,4,16
+2015,CWHL,Jenna Cunningham,F,Calgary Inferno,24,7,4,11,20,2
+2015,CWHL,Sarah Edney,D,Brampton Thunder,24,5,5,10,8,10
+2015,CWHL,Louise Warren,F,Calgary Inferno,19,5,5,10,2,6
+2015,CWHL,Brigette Lacquette,D,Calgary Inferno,10,2,8,10,12,6
+2015,CWHL,Jordanna Peroff,F,Les Canadiennes,22,3,6,9,4,2
+2015,CWHL,Emmanuelle Blais,F,Les Canadiennes,23,4,4,8,12,2
+2015,CWHL,Jessica Vella,F,Toronto Furies,22,4,4,8,6,-7
+2015,CWHL,Kelly Terry,F,Toronto Furies,16,3,5,8,8,-1
+2015,CWHL,Laura McIntosh,F,Brampton Thunder,15,1,7,8,6,6
+2015,CWHL,Michelle Bonello,D,Toronto Furies,24,0,8,8,38,-11
+2015,CWHL,Megan Myers,F,Boston Blades,17,4,3,7,12,-22
+2015,CWHL,Leslie Oles,F,Les Canadiennes,22,3,4,7,22,2
+2015,CWHL,Jocelyne Larocque,D,Brampton Thunder,24,2,5,7,32,10
+2015,CWHL,Erin Kickham,F,Boston Blades,22,1,6,7,12,-28
+2015,CWHL,Shannon Moulson,D,Toronto Furies,24,0,7,7,28,0
+2015,CWHL,Rebecca Johnston,F,Calgary Inferno,4,4,2,6,2,3
+2015,CWHL,Fielding Montgomery,F,Brampton Thunder,23,3,3,6,8,-1
+2015,CWHL,Becca King,F,Brampton Thunder,24,2,4,6,4,0
+2015,CWHL,Tara Watchorn,D,Boston Blades,23,2,4,6,26,-45
+2015,CWHL,Erica Kromm,D/F,Calgary Inferno,23,1,5,6,16,5
+2015,CWHL,Sena Suzuki,D,Toronto Furies,22,1,5,6,8,-10
+2015,CWHL,Sophie Brault,D,Les Canadiennes,24,0,6,6,8,12
+2015,CWHL,Carly Dupont-Hill,D,Les Canadiennes,22,0,6,6,8,20
+2015,CWHL,Emilie Bocchia,F,Les Canadiennes,22,3,2,5,2,0
+2015,CWHL,Ashton Hogan,F,Toronto Furies,22,2,3,5,0,-12
+2015,CWHL,Kristen Hagg,F,Calgary Inferno,21,2,3,5,4,7
+2015,CWHL,Chelsey Saunders,F,Les Canadiennes,22,0,5,5,4,6
+2015,CWHL,Megan Shea,F,Boston Blades,24,3,1,4,4,-34
+2015,CWHL,Kristina Brown,F,Boston Blades,22,2,2,4,8,-25
+2015,CWHL,Aina Mizukami,D,Calgary Inferno,20,1,3,4,14,8
+2015,CWHL,Kanae Aoki,D,Calgary Inferno,18,1,3,4,4,8
+2015,CWHL,Katie Gaskin,D,Toronto Furies,18,0,4,4,4,3
+2015,CWHL,Sarah Stevenson,F,Toronto Furies,24,3,0,3,8,-7
+2015,CWHL,Dania Simmonds,D,Brampton Thunder,24,2,1,3,28,3
+2015,CWHL,Kristy Zamora,F,Toronto Furies,24,1,2,3,8,-7
+2015,CWHL,Dru Burns,D,Boston Blades,21,1,2,3,16,-40
+2015,CWHL,Alyssa Sherrard,F,Les Canadiennes,20,1,2,3,8,4
+2015,CWHL,Tanis Lamoureux,F,Toronto Furies,13,1,2,3,6,-5
+2015,CWHL,Tara French,D,Toronto Furies,22,0,3,3,22,-3
+2015,CWHL,Elizabeth Tremblay,F,Boston Blades,18,2,0,2,14,-27
+2015,CWHL,Maggie DiMasi,D,Boston Blades,22,1,1,2,8,-44
+2015,CWHL,Ellie Seedhouse,F,Brampton Thunder,12,1,1,2,2,4
+2015,CWHL,Sadie St. Germain,F,Boston Blades,21,1,0,1,6,-23
+2015,CWHL,Rhianna Kurio,F,Calgary Inferno,12,1,0,1,0,1
+2015,CWHL,Meaghan Mikkelson-Reid,D,Calgary Inferno,11,1,0,1,2,3
+2015,CWHL,Laura Dostaler,F,Calgary Inferno,2,1,0,1,0,2
+2015,CWHL,Grace Murphy,F,Boston Blades,22,0,1,1,8,-31
+2015,CWHL,Nicole Giannino,F,Boston Blades,22,0,1,1,8,-33
+2015,CWHL,Michelle Saunders,D,Toronto Furies,19,0,1,1,16,-4
+2015,CWHL,Rachel Farrel,F,Boston Blades,19,0,1,1,4,-34
+2015,CWHL,Sara Lachance,F,Les Canadiennes,18,0,1,1,0,1
+2015,CWHL,Kelsey Webster,D,Calgary Inferno,13,0,1,1,20,4
+2015,CWHL,Audrey Morand,F,Les Canadiennes,4,0,1,1,0,0
+2015,CWHL,Leah Whittaker,D,Brampton Thunder,24,0,0,0,6,7
+2015,CWHL,Whitney Hannah-Horne,F,Brampton Thunder,24,0,0,0,6,0
+2015,CWHL,Jacquie Pierri,D,Calgary Inferno,24,0,0,0,18,10
+2015,CWHL,Sarah Duncan,D,Boston Blades,24,0,0,0,12,-34
+2015,CWHL,Tomomi Kurata,D,Toronto Furies,24,0,0,0,4,-3
+2015,CWHL,Kate Gray,F,Boston Blades,23,0,0,0,0,-7
+2015,CWHL,Clara St. Germain,D,Boston Blades,22,0,0,0,4,-25
+2015,CWHL,Desiree Casian,F,Boston Blades,20,0,0,0,0,-8
+2015,CWHL,Tara Cation,D,Brampton Thunder,19,0,0,0,4,-2
+2015,CWHL,Olivia Keefe,F,Boston Blades,18,0,0,0,12,-22
+2015,CWHL,Maggie Gore,F,Boston Blades,16,0,0,0,0,-1
+2015,CWHL,Nicole Flores,F,Boston Blades,14,0,0,0,0,0
+2015,CWHL,Laurel Hill,D,Toronto Furies,9,0,0,0,8,-5
+2015,CWHL,Katie Wilson,F,Toronto Furies,5,0,0,0,0,-1
+2016,CWHL,Rebecca Vint,F,Brampton Thunder,19,8,7,15,30,9
+2016,CWHL,Courtney Birchard Kessel,D,Brampton Thunder,20,4,11,15,12,3
+2016,CWHL,Jacquie Pierri,D,Calgary Inferno,23,0,3,3,48,10
+2016,CWHL,Melissa Bizzari,F,Boston Blades,,,,,,
+2016,CWHL,Erica Kromm,D/F,Calgary Inferno,,,,,,
+2016,CWHL,Michela Cava,F,Toronto Furies,,,,,,
+2016,CWHL,Kristina Brown,F,Boston Blades,,,,,,
+2016,CWHL,Brigette Lacquette,D,Calgary Inferno,,,,,,
+2016,CWHL,Aina Mizukami,D,Calgary Inferno,,,,,,
+2016,CWHL,Kelly Terry,F,Toronto Furies,,,,,,
+2016,CWHL,Kristen Levesque,F,Boston Blades,,,,,,
+2016,CWHL,Blayre Turnbull,F,Calgary Inferno,,,,,,
+2016,CWHL,Hayleigh Cudmore,D,Calgary Inferno,,,,,,
+2016,CWHL,Jessica Vella,F,Toronto Furies,,,,,,
+2016,CWHL,Kate Leary,F,Boston Blades,,,,,,
+2016,CWHL,Iya Gavrilova,F,Calgary Inferno,,,,,,
+2016,CWHL,Kaitlyn Gosling,D,Calgary Inferno,,,,,,
+2016,CWHL,Vanessa Spataro,F,Toronto Furies,,,,,,
+2016,CWHL,Sato Kikuchi,D,Boston Blades,,,,,,
+2016,CWHL,Brianne Jenner,F,Calgary Inferno,,,,,,
+2016,CWHL,Laura Fortino,D,Brampton Thunder,,,,,,
+2016,CWHL,Emily Fulton,F,Toronto Furies,,,,,,
+2016,CWHL,Nachi Fujimoto,D,Boston Blades,,,,,,
+2016,CWHL,Jessica Campbell,F,Calgary Inferno,,,,,,
+2016,CWHL,Sarah Edney,D,Brampton Thunder,,,,,,
+2016,CWHL,Danielle Gagne,F,Toronto Furies,,,,,,
+2016,CWHL,Dru Burns,D,Boston Blades,,,,,,
+2016,CWHL,Sarah Davis,F,Calgary Inferno,,,,,,
+2016,CWHL,Dania Simmonds,D,Brampton Thunder,,,,,,
+2016,CWHL,Tanis Lamoureux,F,Toronto Furies,,,,,,
+2016,CWHL,Clara St. Germain,D,Boston Blades,,,,,,
+2016,CWHL,Elana Lovell,F,Calgary Inferno,,,,,,
+2016,CWHL,Jessa McAuliffe,D,Brampton Thunder,,,,,,
+2016,CWHL,Natalie Spooner,F,Toronto Furies,,,,,,
+2016,CWHL,Cassandra Opela,D,Boston Blades,,,,,,
+2016,CWHL,Brittany Esposito,F,Calgary Inferno,,,,,,
+2016,CWHL,Carolyne Prevost,F,Toronto Furies,,,,,,
+2016,CWHL,Taylor McGee,D,Boston Blades,,,,,,
+2016,CWHL,Haley Irwin,F,Calgary Inferno,,,,,,
+2016,CWHL,Kim Deschenes,F,Les Canadiennes,,,,,,
+2016,CWHL,Erin Zach,F,Toronto Furies,,,,,,
+2016,CWHL,Maggie DiMasi,D,Boston Blades,,,,,,
+2016,CWHL,Bailey Bram,F,Calgary Inferno,,,,,,
+2016,CWHL,Noémie Marin,F,Les Canadiennes,,,,,,
+2016,CWHL,Jenna Dingeldein,F,Toronto Furies,,,,,,
+2016,CWHL,Tara Watchorn,D,Boston Blades,,,,,,
+2016,CWHL,Louise Warren,F,Calgary Inferno,,,,,,
+2016,CWHL,Alyssa Sherrard,F,Les Canadiennes,,,,,,
+2016,CWHL,Victoria MacKenzie,F,Toronto Furies,,,,,,
+2016,CWHL,Hayley Wickenheiser,F,Calgary Inferno,,,,,,
+2016,CWHL,Caroline Ouellette,F,Les Canadiennes,,,,,,
+2016,CWHL,Jenelle Kohanchuk,F,Toronto Furies,,,,,,
+2016,CWHL,Laura Dostaler,F,Calgary Inferno,,,,,,
+2016,CWHL,Sarah Lefort,F,Les Canadiennes,,,,,,
+2016,CWHL,Michelle Saunders,D,Toronto Furies,,,,,,
+2016,CWHL,Rebecca Johnston,F,Calgary Inferno,,,,,,
+2016,CWHL,Katia Clement-Heydra,F,Les Canadiennes,,,,,,
+2016,CWHL,Sena Suzuki,D,Toronto Furies,,,,,,
+2016,CWHL,Jillian Saulnier,F,Calgary Inferno,,,,,,
+2016,CWHL,Jordanna Peroff,F,Les Canadiennes,,,,,,
+2016,CWHL,Erin Ambrose,D,Toronto Furies,,,,,,
+2016,CWHL,Carlee Campbell,D,Toronto Furies,,,,,,
+2016,CWHL,Jocelyne Larocque,D,Brampton Thunder,,,,,,
+2016,CWHL,Ann-Sophie Bettez,F,Les Canadiennes,,,,,,
+2016,CWHL,Katie Gaskin,D,Toronto Furies,,,,,,
+2016,CWHL,Kaitlyn Tougas,F,Brampton Thunder,,,,,,
+2016,CWHL,Marie-Philip Poulin-Nadeau,F,Les Canadiennes,,,,,,
+2016,CWHL,Renata Fast,D,Toronto Furies,,,,,,
+2016,CWHL,Jessica Hartwick,D,Brampton Thunder,,,,,,
+2016,CWHL,Marion Allemoz,F,Les Canadiennes,,,,,,
+2016,CWHL,Ella Stewart,D,Toronto Furies,,,,,,
+2016,CWHL,Melissa Wronzberg,F,Brampton Thunder,,,,,,
+2016,CWHL,Emmanuelle Blais,F,Les Canadiennes,,,,,,
+2016,CWHL,Shannon Moulson,D,Toronto Furies,,,,,,
+2016,CWHL,Jamie Lee Rattray,F,Brampton Thunder,,,,,,
+2016,CWHL,Emilie Bocchia,F,Les Canadiennes,,,,,,
+2016,CWHL,Nicole Giannino,F,Boston Blades,,,,,,
+2016,CWHL,Nicole Brown,F,Brampton Thunder,,,,,,
+2016,CWHL,Leslie Oles,F,Les Canadiennes,,,,,,
+2016,CWHL,Sadie St. Germain,F,Boston Blades,,,,,,
+2016,CWHL,Hayley Williams,F,Brampton Thunder,,,,,,
+2016,CWHL,Karell Emard,D/F,Les Canadiennes,,,,,,
+2016,CWHL,Erin Kickham,F,Boston Blades,,,,,,
+2016,CWHL,Shannon MacAulay,F,Brampton Thunder,,,,,,
+2016,CWHL,Lauriane Rougeau,D,Les Canadiennes,,,,,,
+2016,CWHL,Kayla Tutino,F,Boston Blades,,,,,,
+2016,CWHL,Jess Jones,F,Brampton Thunder,,,,,,
+2016,CWHL,Carly Hill,D,Les Canadiennes,,,,,,
+2016,CWHL,Dakota Woodworth,F,Boston Blades,,,,,,
+2016,CWHL,Taylor Woods,F,Brampton Thunder,,,,,,
+2016,CWHL,Cathy Chartrand,D,Les Canadiennes,,,,,,
+2016,CWHL,Megan Myers,F,Boston Blades,,,,,,
+2016,CWHL,Fielding Montgomery,F,Brampton Thunder,,,,,,
+2016,CWHL,Brittney Fouracres,D,Les Canadiennes,,,,,,
+2016,CWHL,Casey Pickett,F,Boston Blades,,,,,,
+2016,CWHL,Candice Styles,D/F,Brampton Thunder,,,,,,
+2016,CWHL,Julie Chu,F,Les Canadiennes,,,,,,
+2016,CWHL,Meghan Grieves,F,Boston Blades,,,,,,
+2016,CWHL,Jenna McParland,F,Brampton Thunder,,,,,,
+2016,CWHL,Sophie Brault,D,Les Canadiennes,,,,,,
+2017,CWHL,Kelli Stack,F,Kunlun Red Star,28,26,23,49,40,
+2017,CWHL,Cayley Mercer,F,Vanke Rays,28,15,26,41,20,
+2017,CWHL,Zoe Hickel,F,Kunlun Red Star,28,12,26,38,16,
+2017,CWHL,Hanna Bunton,F,Vanke Rays,28,15,11,26,18,
+2017,CWHL,Brooke Webster,F,Vanke Rays,26,9,17,26,26,
+2017,CWHL,Ashleigh Brykaliuk,F,Vanke Rays,28,8,17,25,8,
+2017,CWHL,Jessica Wong,F,Kunlun Red Star,28,10,14,24,22,
+2017,CWHL,Emma Woods,F,Vanke Rays,28,9,10,19,18,
+2017,CWHL,Shiann Darkangelo,F,Kunlun Red Star,27,10,8,18,32,
+2017,CWHL,Stephanie Anderson,F,Kunlun Red Star,28,8,9,17,48,
+2017,CWHL,Emily Janiga,F,Vanke Rays,28,8,6,14,28,
+2017,CWHL,Alex Carpenter,F,Kunlun Red Star,13,5,7,12,0,
+2017,CWHL,Kayla Gardner,F,Calgary Inferno,25,6,5,11,10,
+2017,CWHL,Jacquie Pierri,D,Calgary Inferno,28,4,7,11,26,
+2017,CWHL,Melanie Jue,???,Kunlun Red Star,28,6,4,10,24,
+2017,CWHL,Rachel Llanes,F,Kunlun Red Star,28,5,5,10,24,
+2017,CWHL,Maddie Woo,F,Kunlun Red Star,28,3,7,10,10,
+2017,CWHL,Michelle Ng,F,Boston Blades,20,4,5,9,12,
+2017,CWHL,Annina Rajahuhta,F,Kunlun Red Star,10,3,6,9,10,
+2017,CWHL,Taylor Marchin,D,Kunlun Red Star,22,0,9,9,6,
+2017,CWHL,Xin Fang,F,Vanke Rays,28,5,3,8,18,
+2017,CWHL,Zhixin Liu,D,Kunlun Red Star,28,3,3,6,12,
+2017,CWHL,Qinan Zhao,D,Vanke Rays,28,1,3,4,28,
+2017,CWHL,Lu Wen,D,Kunlun Red Star,28,1,3,4,4,
+2017,CWHL,Rose Alleva,D,Vanke Rays,28,1,3,4,18,
+2017,CWHL,Baiwei Yu,D,Kunlun Red Star,28,1,2,3,14,
+2017,CWHL,Rui Zhu,F,Kunlun Red Star,27,2,0,2,2,
+2017,CWHL,Minghui Kong,F,Vanke Rays,28,1,1,2,10,
+2017,CWHL,Lauren Kelly,D,Vanke Rays,23,1,1,2,6,
+2017,CWHL,Xin He,F,Vanke Rays,28,1,0,1,6,
+2017,CWHL,Hongxin Yan,D,Kunlun Red Star,20,0,1,1,0,
+2017,CWHL,Yue Hou,D,Vanke Rays,30,0,0,0,22,
+2017,CWHL,Naixin Zhou,D,Vanke Rays,29,0,0,0,2,
+2017,CWHL,Bowen Jiang,F,Vanke Rays,29,0,0,0,2,
+2017,CWHL,Alexa Aramburu,F,Toronto Furies,28,0,0,0,12,
+2017,CWHL,Han Gao,F,Vanke Rays,28,0,0,0,0,
+2017,CWHL,Yue Lyu,F,Vanke Rays,28,0,0,0,4,
+2017,CWHL,Bo Wang,D,Kunlun Red Star,28,0,0,0,0,
+2017,CWHL,Wenzhuo Wang,F,Kunlun Red Star,28,0,0,0,4,
+2017,CWHL,Liying Yang,F,Kunlun Red Star,27,0,0,0,0,
+2017,CWHL,Jinqiu Xiao,D,Vanke Rays,27,0,0,0,0,
+2017,CWHL,Lore Baudrit,F,Les Canadiennes,16,0,0,0,4,
+2017,CWHL,Lixue Xing,F,Kunlun Red Star,15,0,0,0,0,
+2017,CWHL,Jiachao Xu,D,Vanke Rays,10,0,0,0,0,
+2018,CWHL,Marie-Philip Poulin-Nadeau,F,Les Canadiennes,26,23,27,50,12,
+2018,CWHL,Ann-Sophie Bettez,F,Les Canadiennes,26,18,30,48,16,
+2018,CWHL,Rebecca Johnston,F,Calgary Inferno,27,15,24,39,8,
+2018,CWHL,Brianne Jenner,F,Calgary Inferno,27,19,13,32,8,
+2018,CWHL,Victoria Bach,F,Markham Thunder,26,19,13,32,6,
+2018,CWHL,Alex Carpenter,F,Shenzhen KRS Vanke Rays,28,17,14,31,0,
+2018,CWHL,Jillian Saulnier,F,Les Canadiennes,20,11,18,29,12,
+2018,CWHL,Natalie Spooner,F,Toronto Furies,26,15,11,26,14,
+2018,CWHL,Sarah Nurse,F,Toronto Furies,26,14,12,26,16,
+2018,CWHL,Brianna Decker,F,Calgary Inferno,23,12,14,26,18,
+2018,CWHL,Rebecca Leslie,F,Calgary Inferno,27,11,15,26,16,
+2018,CWHL,Hanna Bunton,F,Shenzhen KRS Vanke Rays,28,10,16,26,16,
+2018,CWHL,Jamie Lee Rattray,F,Markham Thunder,26,12,13,25,14,
+2018,CWHL,Laura Stacey,F,Markham Thunder,24,8,17,25,22,
+2018,CWHL,Erin Ambrose,D,Les Canadiennes,26,6,18,24,20,
+2018,CWHL,Zoe Hickel,F,Calgary Inferno,24,7,16,23,10,
+2018,CWHL,Blayre Turnbull,F,Calgary Inferno,25,12,9,21,24,
+2018,CWHL,Cayley Mercer,F,Shenzhen KRS Vanke Rays,28,7,14,21,12,
+2018,CWHL,Kacey Bellamy,D,Calgary Inferno,27,6,15,21,8,
+2018,CWHL,Melodie Daoust,F,Les Canadiennes,14,11,9,20,24,
+2018,CWHL,Katia Clement-Heydra,F,Les Canadiennes,26,6,13,19,14,
+2018,CWHL,Laura Fortino,D,Markham Thunder,26,5,13,18,4,
+2018,CWHL,Brigette Lacquette,D,Calgary Inferno,24,2,16,18,34,
+2018,CWHL,Hilary Knight,F,Les Canadiennes,23,9,8,17,4,
+2018,CWHL,Jenna McParland,F,Markham Thunder,24,10,6,16,6,
+2018,CWHL,Kaitlyn Gosling,D,Calgary Inferno,25,9,7,16,12,
+2018,CWHL,Emma Woods,F,Shenzhen KRS Vanke Rays,28,8,8,16,20,
+2018,CWHL,Sarah Lefort,F,Les Canadiennes,26,7,9,16,16,
+2018,CWHL,Lauriane Rougeau,D,Les Canadiennes,28,2,14,16,16,
+2018,CWHL,Hannah Miller,F,Shenzhen KRS Vanke Rays,21,10,5,15,16,
+2018,CWHL,Jess Jones,F,Markham Thunder,25,9,6,15,20,
+2018,CWHL,Rachel Llanes,F,Shenzhen KRS Vanke Rays,19,6,9,15,16,
+2018,CWHL,Jessica Wong,F,Shenzhen KRS Vanke Rays,28,3,12,15,12,
+2018,CWHL,Karell Emard,D/F,Les Canadiennes,28,6,8,14,28,
+2018,CWHL,Venla Hovi,F,Calgary Inferno,25,4,10,14,4,
+2018,CWHL,Brittany Howard,F,Toronto Furies,25,5,8,13,20,
+2018,CWHL,Halli Krzyzaniak,D,Calgary Inferno,27,4,9,13,26,
+2018,CWHL,Nicole Brown,F,Markham Thunder,25,4,9,13,2,
+2018,CWHL,Carolyne Prevost,F,Toronto Furies,21,6,6,12,2,
+2018,CWHL,Mellissa Channell,D,Toronto Furies,28,0,12,12,16,
+2018,CWHL,Kim Deschenes,F,Les Canadiennes,28,4,7,11,12,
+2018,CWHL,Melanie Jue,???,Shenzhen KRS Vanke Rays,28,1,10,11,16,
+2018,CWHL,Shiann Darkangelo,F,Toronto Furies,27,6,4,10,22,
+2018,CWHL,Leah Lum,D/F,Shenzhen KRS Vanke Rays,28,4,6,10,14,
+2018,CWHL,Jocelyne Larocque,D,Markham Thunder,23,2,8,10,28,
+2018,CWHL,Stephanie Anderson,F,Shenzhen KRS Vanke Rays,25,5,3,8,20,
+2018,CWHL,Shannon Stewart,F,Toronto Furies,27,4,4,8,0,
+2018,CWHL,Meghan Grieves,F,Worcester Blades,27,3,5,8,2,
+2018,CWHL,Renata Fast,D,Toronto Furies,26,2,6,8,48,
+2018,CWHL,Megan Bozek,D,Markham Thunder,26,1,7,8,12,
+2018,CWHL,Morgan Turner,F,Worcester Blades,24,4,3,7,22,
+2018,CWHL,Kristen Barbara,D,Markham Thunder,28,3,4,7,18,
+2018,CWHL,Kristen Richards,F,Markham Thunder,28,2,5,7,36,
+2018,CWHL,Taylor Willard,D,Les Canadiennes,26,2,5,7,4,
+2018,CWHL,Genevieve Bannon,F,Les Canadiennes,26,2,5,7,4,
+2018,CWHL,Julie Allen,F,Toronto Furies,23,2,5,7,8,
+2018,CWHL,Melanie Desrochers,D,Les Canadiennes,28,1,6,7,18,
+2018,CWHL,Maddie Woo,F,Shenzhen KRS Vanke Rays,28,3,3,6,10,
+2018,CWHL,Kelty Apperson,F,Calgary Inferno,25,3,3,6,4,
+2018,CWHL,Kaitlin Spurling,F,Worcester Blades,20,3,3,6,8,
+2018,CWHL,Jessica Vella,F,Toronto Furies,25,2,4,6,10,
+2018,CWHL,Brooke Webster,F,Markham Thunder,23,2,4,6,6,
+2018,CWHL,Carlee Campbell,D,Toronto Furies,8,2,4,6,4,
+2018,CWHL,Kaitlin Willoughby,F,Calgary Inferno,27,1,5,6,2,
+2018,CWHL,Nicole Kosta,F,Markham Thunder,13,1,5,6,2,
+2018,CWHL,Catherine Daoust,D,Les Canadiennes,27,2,3,5,2,
+2018,CWHL,Taylor Woods,F,Markham Thunder,26,2,3,5,12,
+2018,CWHL,Demi Crossman,F,Worcester Blades,22,2,3,5,30,
+2018,CWHL,Tori Hickel,D/F,Calgary Inferno,27,1,4,5,6,
+2018,CWHL,Becca King,F,Markham Thunder,27,1,4,5,10,
+2018,CWHL,Maude Gelinas,F,Les Canadiennes,25,3,1,4,2,
+2018,CWHL,Dakota Woodworth,F,Calgary Inferno,27,2,2,4,2,
+2018,CWHL,Mackenzie MacNeil,F,Toronto Furies,25,2,2,4,0,
+2018,CWHL,Nicole Anderson,F,Worcester Blades,24,2,2,4,4,
+2018,CWHL,Emily Fulton,F,Toronto Furies,15,2,2,4,22,
+2018,CWHL,Megan Quinn,D,Toronto Furies,28,1,3,4,8,
+2018,CWHL,Baiwei Yu,D,Shenzhen KRS Vanke Rays,28,1,3,4,12,
+2018,CWHL,Courtney Turner,F,Worcester Blades,27,1,3,4,26,
+2018,CWHL,Ailish Forfar,F,Markham Thunder,25,1,3,4,10,
+2018,CWHL,Kelly Gribbons,F,Markham Thunder,25,1,3,4,0,
+2018,CWHL,Eden Murray,F,Calgary Inferno,17,1,3,4,6,
+2018,CWHL,Qinan Zhao,D,Shenzhen KRS Vanke Rays,27,0,4,4,10,
+2018,CWHL,Louise Warren,F,Calgary Inferno,19,0,4,4,6,
+2018,CWHL,Chelsey Goldberg,F,Worcester Blades,27,2,1,3,2,
+2018,CWHL,Megan Myers,F,Worcester Blades,21,2,1,3,10,
+2018,CWHL,Olivia Atkinson,F,Les Canadiennes,17,2,1,3,0,
+2018,CWHL,Michelle Ng,F,Shenzhen KRS Vanke Rays,28,1,2,3,10,
+2018,CWHL,Emma Martin,D,Les Canadiennes,12,1,2,3,4,
+2018,CWHL,Emma Greco,D,Toronto Furies,23,0,3,3,12,
+2018,CWHL,Carrie Atkinson,D,Worcester Blades,21,0,3,3,10,
+2018,CWHL,Casey Stathopoulos,F,Worcester Blades,25,2,0,2,4,
+2018,CWHL,Minghui Kong,F,Shenzhen KRS Vanke Rays,28,1,1,2,0,
+2018,CWHL,Tracy-Ann Lavigne,???,Les Canadiennes,28,1,1,2,4,
+2018,CWHL,Aina Mizukami,D,Calgary Inferno,18,1,1,2,4,
+2018,CWHL,Kayla Tutino,F,Les Canadiennes,5,1,1,2,0,
+2018,CWHL,Zhixin Liu,D,Shenzhen KRS Vanke Rays,28,0,2,2,16,
+2018,CWHL,Xin Fang,F,Shenzhen KRS Vanke Rays,28,0,2,2,0,
+2018,CWHL,Kelly Murray,D,Calgary Inferno,27,0,2,2,12,
+2018,CWHL,Gina Repaci,D,Markham Thunder,27,0,2,2,6,
+2018,CWHL,Julia Fedeski,D,Toronto Furies,24,0,2,2,24,
