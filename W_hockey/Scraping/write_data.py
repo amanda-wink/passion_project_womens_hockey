@@ -1,5 +1,6 @@
 import os
 from sqlalchemy import create_engine
+from data_display
 
 def connect_sql():
     """
@@ -8,7 +9,7 @@ def connect_sql():
     """
     user = os.getenv('MYSQL_user')
     pw = os.getenv('MYSQL')
-    str_sql = 'mysql+mysqlconnector://' + user + ':' + pw + '@localhost/'
+    str_sql = 'mysql+mysqlconnector://' + user + ':' + pw + '@localhost/w_hockey'
     engine = create_engine(str_sql)
     return engine
 
@@ -19,7 +20,7 @@ def write_sql(dataframe, engine, table):
     :param engine: Connection to SQL
     :return: None
     """
-    dataframe.to_sql(con=engine, schema='w_hockey', name=table, if_exists='replace', index=False)
+    dataframe.to_sql(con=engine, name=table, if_exists='replace', index=False)
     engine.dispose()
     print('Written to SQL.')
 

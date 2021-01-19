@@ -12,7 +12,7 @@ def connect_sql():
     """
     user = os.getenv('MYSQL_user')
     pw = os.getenv('MYSQL')
-    str_sql = 'mysql+mysqlconnector://' + user + ':' + pw + '@localhost/'
+    str_sql = 'mysql+mysqlconnector://' + user + ':' + pw + '@localhost/w_hockey'
     engine = create_engine(str_sql)
     return engine
 
@@ -55,7 +55,7 @@ def pdf_read(list):
         else:
             final_roster = pd.concat([final_roster, roster], ignore_index=True)
         loop += 1
-        print(str(team) + ' added.')
+        print(str(team.capitalize()) + ' added.')
     return final_roster
 
 def write_sql(dataframe, engine):
@@ -65,7 +65,9 @@ def write_sql(dataframe, engine):
     :param engine: Connection to SQL
     :return: None
     """
-    dataframe.to_sql(con=engine, schema='hockey', name='rosters', if_exists='replace', index=False)
+    if engine.has_table('rosters'):
+        engine.execute('DROP TABLE rosters')
+    dataframe.to_sql(con=engine, name='rosters', index=False)
     engine.dispose()
     print('Written to SQL.')
 
@@ -88,13 +90,25 @@ def clean(df):
     df.replace({'team': {'beauts': 'Buffalo Beauts', 'pride': 'Boston Pride', 'riveters': 'Metropolitan Riveters',
                          'toronto': 'Toronto Toronto', 'whale':'Connecticut Whale', 'whitecaps':'Minnesota Whitecaps'}},
                inplace=True)
-    df2 = df.fillna('unknown')
-    return df2
+    df.replace({'Country': {'CA': 'Canada', 'CANADA': 'Canada', 'CAN':'Canada'}}, inplace=True)
+
+    new = df.Hometown.str.split(', ', expand=True)
+    city = pd.Series(new[0])
+    state = pd.Series(new[1])
+    df.insert(7, 'hometown_city', city)
+    df.insert(8, 'hometown_region', state)
+    df.drop(columns=['Hometown'], inplace=True)
+    df.replace({'hometown_region':{'R.I.':'RI', 'Wisc.': 'WI', 'Minn.':'MN', 'Michigan':'MI', 'Illinois': 'IL',
+                                   'ON': 'Ontario', 'Ont.':'Ontario', 'BC':'British Columbia', 'B.C.': 'British Columbia',
+                                   'QC': 'Quebec', 'NS':'Nova Scotia', 'NB':'New Brunswick'}}, inplace=True)
+    df.fillna('unknown', inplace=True)
+
+    return df
 
 if __name__ == "__main__":
     con = connect_sql()
     roster = pdf_read(teams)
     #dataframe = pd.read_csv('rosters.csv')
-    roster = clean(dataframe)
+    roster = clean(roster)
     write_sql(roster, con)
     write_csv(roster)

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="./static/style.css">
+    <title>Women's Hockey</title>
+
+</head>
+<body>
+<body style ="background-color:MidnightBlue;">
+	<div class="img-container">
+            <img src="" alt="Hockey"  style="width:200px;height:150px;" text-align="center" >
+	</div>
+
+<div style="color:white;text-align:center;font-size:30px;">Women's Hockey {{ title2 }}</div>
+    <div class="row">
+        <div class="column_table" style="background:LightBlue;">NWHL</div>
+        <div class="column_table" style="background:IndianRed;">CWHL</div>
+        <div class="column_table" style="background:DarkSalmon;">ALL</div>
+    </div>
+    <div class="row" style="background:LightSlateGrey;text-align:center;font-size:20px;color:black;">2015</div>
+    <div class="row">
+        <div class="container flexbox">
+            <div class="column_table" style="background:LightBlue;">
+            {{ nwhl[2015] | safe }}
+            </div>
+            <div class="column_table" style="background:IndianRed;">
+            {{ cwhl[2015] | safe }}
+            </div>
+            <div class="column_table" style="background:DarkSalmon;">
+                {{ all[2015] | safe }}
+            </div>
+        </div>
+    </div>
+    <div class="row" style="background:LightSlateGrey;text-align:center;font-size:20px;color:black;">2016</div>
+    <div class="row">
+        <div class="container flexbox">
+            <div class="column_table" style="background:LightBlue;">
+            {{ nwhl[2016] | safe }}
+            </div>
+            <div class="column_table" style="background:IndianRed;">
+            {{ cwhl[2016] | safe}}
+            </div>
+            <div class="column_table" style="background:DarkSalmon;">
+                {{ all[2016] | safe }}
+            </div>
+        </div>
+    </div>
+    <div class="row" style="background:LightSlateGrey;text-align:center;font-size:20px;color:black;">2017</div>
+    <div class="row">
+        <div class="container flexbox">
+            <div class="column_table" style="background:LightBlue;">
+            {{ nwhl[2017] | safe }}
+            </div>
+            <div class="column_table" style="background:IndianRed;">
+            {{ cwhl[2017] | safe}}
+            </div>
+            <div class="column_table" style="background:DarkSalmon;">
+                {{ all[2017] | safe }}
+            </div>
+        </div>
+    </div>
+    <div class="row" style="background:LightSlateGrey;text-align:center;font-size:20px;color:black;">2018</div>
+    <div class="row">
+        <div class="container flexbox">
+            <div class="column_table" style="background:LightBlue;">
+            {{ nwhl[2018] | safe }}
+            </div>
+            <div class="column_table" style="background:IndianRed;">
+            {{ cwhl[2018] | safe}}
+            </div>
+            <div class="column_table" style="background:DarkSalmon">
+                {{ all[2018] | safe }}
+            </div>
+        </div>
+    </div>
+</body>

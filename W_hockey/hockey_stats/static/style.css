@@ -1,0 +1,55 @@
+.column{
+  width: 30.5%;
+  float: left;
+  padding: 20px;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  color: black;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column_table{
+  width: 31.9%;
+  float: left;
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  color: black;
+}
+
+.flexbox {
+  display: flex;
+
+  // Ensure content elements fill up the .column
+  .element {
+    height: 100%;
+  }
+
+  &.col-3 {
+    // Explicitly needs defined to wrap overflow items to the next virtual row
+    flex-wrap: wrap;
+
+    .column {
+      width: 31.9%;
+    }
+  }
+}
+
+table {
+  border-collapse: collapse;
+  width:100%;
+}
+
+td, th {
+  font-size: 15px;
+  border: 1px solid black;
+  padding: 0.5rem;
+  text-align: left;
+}
