@@ -10,9 +10,11 @@ def connect_sql():
     Connects to SQL. Requires a username and password being set in your env.
     :return: Connection to SQL
     """
-    user = os.getenv('MYSQL_user')
-    pw = os.getenv('MYSQL')
-    str_sql = 'mysql+mysqlconnector://' + user + ':' + pw + '@localhost/w_hockey'
+    #user = os.getenv('MYSQL_user')
+    #pw = os.getenv('MYSQL')
+    #str_sql = 'mysql+mysqlconnector://' + user + ':' + pw + '@localhost/w_hockey'
+    p_user = os.getenv('p_user')
+    str_sql = 'postgresql://' + p_user + ':postgres@localhost/w_hockey'
     engine = create_engine(str_sql)
     return engine
 

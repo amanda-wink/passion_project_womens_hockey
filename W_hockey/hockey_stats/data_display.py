@@ -8,9 +8,11 @@ def connect_sql():
     Connects to SQL. Requires a username and password being set in your env.
     :return: Connection to SQL
     """
-    user = os.getenv('MYSQL_user')
-    pw = os.getenv('MYSQL')
-    str_sql = 'mysql+mysqlconnector://' + user + ':' + pw + '@localhost/w_hockey'
+    #user = os.getenv('MYSQL_user')
+    #pw = os.getenv('MYSQL')
+    #str_sql = 'mysql+mysqlconnector://' + user + ':' + pw + '@localhost/w_hockey'
+    p_user = os.getenv('p_user')
+    str_sql = 'postgresql://' + p_user + ':postgres@localhost/w_hockey'
     engine = create_engine(str_sql)
     return engine
 
@@ -32,9 +34,9 @@ def get_table_html(dataframe):
 def get_table_list(engine, table, league, year):
     league = '\'' + str(league) + '\''
     year = '\'' + str(year)+ '\''
-    df = pd.read_sql('select Player, Team, GP, P from ' + str(table) +
-                                    ' where Season = ' + year + ' and League = ' + str(league) +
-                                    ' and GP is not null order by P DESC LIMIT 5;', engine)
+    df = pd.read_sql('select "Player", "Team", "GP", "P" from ' + str(table) +
+                                    ' where "Season" = ' + year + ' and "League" = ' + str(league) +
+                                    ' and "GP" is not null order by "P" DESC LIMIT 5;', engine)
     return df
 
 def get_all_table_list(con, year, table1, table2):
@@ -71,10 +73,10 @@ def get_all_html(dataframe):
 def get_goalie_table(engine, table, league, year):
     league = '\'' + str(league) + '\''
     year = '\'' + str(year)+ '\''
-    df = pd.read_sql('select Player, Team, GP, PER from ' + str(table) +
-                     ' where Season = ' + year + ' and League = ' + str(league) +
-                     ' and GP is not null and PER is not null'
-                     ' order by PER DESC LIMIT 5;', engine)
+    df = pd.read_sql('select "Player", "Team", "GP", "PER" from ' + str(table) +
+                     ' where "Season" = ' + year + ' and "League" = ' + str(league) +
+                     ' and "GP" is not null and "PER" is not null'
+                     ' order by "PER" DESC LIMIT 5;', engine)
     return df
 
 def get_goalie_html(dataframe):

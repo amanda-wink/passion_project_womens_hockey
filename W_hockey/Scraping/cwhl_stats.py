@@ -70,7 +70,7 @@ def get_goalie_stats(year_start, year_end, type):
 
 if __name__ == "__main__":
     con = connect_sql()
-
+    """
     #regular season skater stats
     stats = get_cwhl_data(2008, 2020, 1)
     write_sql(stats, con, 'cwhl_stats')
@@ -101,4 +101,3 @@ if __name__ == "__main__":
     write_sql(stats_reg_g, con, 'cwhl_goalies')
     stats_p_g = pd.read_csv('csv/cwhl_playoffs_g.csv')
     write_sql(stats_p_g, con, 'cwhl_playoffs_g')
-    """
